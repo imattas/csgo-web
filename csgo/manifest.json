@@ -1,6 +1,6 @@
 {
-  "name": "Clutcher.io",
-  "short_name": "Clutcher",
+  "name": "CS:GO Web",
+  "short_name": "CS:GO Web",
   "description": "Tactical browser FPS",
   "start_url": "./",
   "display": "fullscreen",

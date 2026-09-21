@@ -14,7 +14,7 @@ for (const marker of [
 ]) assert.match(html, new RegExp(marker.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')));
 assert.match(html, /localAssetPrefix/);
 assert.match(html, /localAssetMap/);
-assert.match(html, /assets\.clutcher\.io/);
+assert.match(html, /localAssetPrefix\s*=\s*['"]\/csgo['"]/);
 assert.match(html, /data-cgw-fps-input/);
 assert.match(html, /data-cgw-crosshair/);
 assert.match(html, /csgo-web-tabs/);

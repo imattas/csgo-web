@@ -20,4 +20,4 @@ The repository includes the Worker asset configuration used for deployment:
 npx wrangler@latest deploy
 ```
 
-The `csgo/` directory is the game port. Other Web Dashers games are intentionally not included.
+The `csgo/` directory is the game port. Other games are intentionally not included.

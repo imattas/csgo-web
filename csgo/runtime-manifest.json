@@ -1101,7 +1101,7 @@
         "url":  "/z/models/oasis_phys.bin?v=7f382be8e0",
         "status":  200,
         "type":  "fetch",
-        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\oasis_phys.bin__P3Y9N2YzODJiZThlMA"
+        "file":  "runtime\\z\\models\\oasis_phys.bin__P3Y9N2YzODJiZThlMA"
     },
     {
         "url":  "/ui/cases/crate_community_8.webp",
@@ -1251,13 +1251,13 @@
         "url":  "/models/oasis_data.json?v=663813b4cb",
         "status":  200,
         "type":  "fetch",
-        "file":  "runtime\\_external\\assets.clutcher.io\\models\\oasis_data.json__P3Y9NjYzODEzYjRjYg"
+        "file":  "runtime\\models\\oasis_data.json__P3Y9NjYzODEzYjRjYg"
     },
     {
         "url":  "/z/models/oasis_entities.json?v=7b729b504a",
         "status":  200,
         "type":  "fetch",
-        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\oasis_entities.json__P3Y9N2I3MjliNTA0YQ"
+        "file":  "runtime\\z\\models\\oasis_entities.json__P3Y9N2I3MjliNTA0YQ"
     },
     {
         "url":  "/textures/fx_particle_ring_wave_8.png",
@@ -1287,7 +1287,7 @@
         "url":  "/z/models/cs2/cs2_locomotion_rifle.glb?v=36fb163337",
         "status":  200,
         "type":  "fetch",
-        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\cs2_locomotion_rifle.glb__P3Y9MzZmYjE2MzMzNw"
+        "file":  "runtime\\z\\models\\cs2\\cs2_locomotion_rifle.glb__P3Y9MzZmYjE2MzMzNw"
     },
     {
         "url":  "/ui/radar_de_mirage.png",
@@ -1299,7 +1299,7 @@
         "url":  "/models/sky_mirage.jpg?v=5912545733",
         "status":  200,
         "type":  "image",
-        "file":  "runtime\\_external\\assets.clutcher.io\\models\\sky_mirage.jpg__P3Y9NTkxMjU0NTczMw"
+        "file":  "runtime\\models\\sky_mirage.jpg__P3Y9NTkxMjU0NTczMw"
     },
     {
         "url":  "/textures/fx_smokeloop_i_0_sc.png",
@@ -1323,7 +1323,7 @@
         "url":  "/models/oasis_shadows.png?v=350c3742d2",
         "status":  200,
         "type":  "image",
-        "file":  "runtime\\_external\\assets.clutcher.io\\models\\oasis_shadows.png__P3Y9MzUwYzM3NDJkMg"
+        "file":  "runtime\\models\\oasis_shadows.png__P3Y9MzUwYzM3NDJkMg"
     },
     {
         "url":  "/textures/fx_fire_small_sim_b.png",
@@ -1365,109 +1365,109 @@
         "url":  "/z/models/cs2/vm/zeus.glb?v=c341490c25",
         "status":  200,
         "type":  "fetch",
-        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\vm\\zeus.glb__P3Y9YzM0MTQ5MGMyNQ"
+        "file":  "runtime\\z\\models\\cs2\\vm\\zeus.glb__P3Y9YzM0MTQ5MGMyNQ"
     },
     {
         "url":  "/z/models/cs2/vm/knife_ct.glb?v=48c7fdbe1b",
         "status":  200,
         "type":  "fetch",
-        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\vm\\knife_ct.glb__P3Y9NDhjN2ZkYmUxYg"
+        "file":  "runtime\\z\\models\\cs2\\vm\\knife_ct.glb__P3Y9NDhjN2ZkYmUxYg"
     },
     {
         "url":  "/z/models/cs2/vm/knife_t.glb?v=3e57260b64",
         "status":  200,
         "type":  "fetch",
-        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\vm\\knife_t.glb__P3Y9M2U1NzI2MGI2NA"
+        "file":  "runtime\\z\\models\\cs2\\vm\\knife_t.glb__P3Y9M2U1NzI2MGI2NA"
     },
     {
         "url":  "/z/models/cs2/vm/p250.glb?v=b135d2ba2e",
         "status":  200,
         "type":  "fetch",
-        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\vm\\p250.glb__P3Y9YjEzNWQyYmEyZQ"
+        "file":  "runtime\\z\\models\\cs2\\vm\\p250.glb__P3Y9YjEzNWQyYmEyZQ"
     },
     {
         "url":  "/z/models/cs2/ctm_sas.glb?v=8f3ef8148c",
         "status":  200,
         "type":  "fetch",
-        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\ctm_sas.glb__P3Y9OGYzZWY4MTQ4Yw"
+        "file":  "runtime\\z\\models\\cs2\\ctm_sas.glb__P3Y9OGYzZWY4MTQ4Yw"
     },
     {
         "url":  "/z/models/cs2/vm/usps.glb?v=bf9d57fc03",
         "status":  200,
         "type":  "fetch",
-        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\vm\\usps.glb__P3Y9YmY5ZDU3ZmMwMw"
+        "file":  "runtime\\z\\models\\cs2\\vm\\usps.glb__P3Y9YmY5ZDU3ZmMwMw"
     },
     {
         "url":  "/z/models/cs2/vm/dualies.glb?v=4e8e45fe73",
         "status":  200,
         "type":  "fetch",
-        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\vm\\dualies.glb__P3Y9NGU4ZTQ1ZmU3Mw"
+        "file":  "runtime\\z\\models\\cs2\\vm\\dualies.glb__P3Y9NGU4ZTQ1ZmU3Mw"
     },
     {
         "url":  "/z/models/cs2/weapon_knife_ct.glb?v=a11c87867b",
         "status":  200,
         "type":  "fetch",
-        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\weapon_knife_ct.glb__P3Y9YTExYzg3ODY3Yg"
+        "file":  "runtime\\z\\models\\cs2\\weapon_knife_ct.glb__P3Y9YTExYzg3ODY3Yg"
     },
     {
         "url":  "/z/models/cs2/vm/fiveseven.glb?v=45cdeb0989",
         "status":  200,
         "type":  "fetch",
-        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\vm\\fiveseven.glb__P3Y9NDVjZGViMDk4OQ"
+        "file":  "runtime\\z\\models\\cs2\\vm\\fiveseven.glb__P3Y9NDVjZGViMDk4OQ"
     },
     {
         "url":  "/z/models/cs2/weapon_knife_t.glb?v=a2ee44e9c8",
         "status":  200,
         "type":  "fetch",
-        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\weapon_knife_t.glb__P3Y9YTJlZTQ0ZTljOA"
+        "file":  "runtime\\z\\models\\cs2\\weapon_knife_t.glb__P3Y9YTJlZTQ0ZTljOA"
     },
     {
         "url":  "/z/models/cs2/vm/xm1014.glb?v=e88d883a1c",
         "status":  200,
         "type":  "fetch",
-        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\vm\\xm1014.glb__P3Y9ZTg4ZDg4M2ExYw"
+        "file":  "runtime\\z\\models\\cs2\\vm\\xm1014.glb__P3Y9ZTg4ZDg4M2ExYw"
     },
     {
         "url":  "/z/models/cs2/vm/deagle.glb?v=149f62afc9",
         "status":  200,
         "type":  "fetch",
-        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\vm\\deagle.glb__P3Y9MTQ5ZjYyYWZjOQ"
+        "file":  "runtime\\z\\models\\cs2\\vm\\deagle.glb__P3Y9MTQ5ZjYyYWZjOQ"
     },
     {
         "url":  "/z/models/cs2/vm/nova.glb?v=997fdbdf48",
         "status":  200,
         "type":  "fetch",
-        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\vm\\nova.glb__P3Y9OTk3ZmRiZGY0OA"
+        "file":  "runtime\\z\\models\\cs2\\vm\\nova.glb__P3Y9OTk3ZmRiZGY0OA"
     },
     {
         "url":  "/z/models/cs2/vm/mp5sd.glb?v=9bec31c3a2",
         "status":  200,
         "type":  "fetch",
-        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\vm\\mp5sd.glb__P3Y9OWJlYzMxYzNhMg"
+        "file":  "runtime\\z\\models\\cs2\\vm\\mp5sd.glb__P3Y9OWJlYzMxYzNhMg"
     },
     {
         "url":  "/z/models/cs2/vm/p90.glb?v=b55e87b125",
         "status":  200,
         "type":  "fetch",
-        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\vm\\p90.glb__P3Y9YjU1ZTg3YjEyNQ"
+        "file":  "runtime\\z\\models\\cs2\\vm\\p90.glb__P3Y9YjU1ZTg3YjEyNQ"
     },
     {
         "url":  "/z/models/cs2/weapon_pist_taser.glb?v=b5c5c602e1",
         "status":  200,
         "type":  "fetch",
-        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\weapon_pist_taser.glb__P3Y9YjVjNWM2MDJlMQ"
+        "file":  "runtime\\z\\models\\cs2\\weapon_pist_taser.glb__P3Y9YjVjNWM2MDJlMQ"
     },
     {
         "url":  "/z/models/cs2/vm/mp9.glb?v=506cee4897",
         "status":  200,
         "type":  "fetch",
-        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\vm\\mp9.glb__P3Y9NTA2Y2VlNDg5Nw"
+        "file":  "runtime\\z\\models\\cs2\\vm\\mp9.glb__P3Y9NTA2Y2VlNDg5Nw"
     },
     {
         "url":  "/z/models/cs2/vm/famas.glb?v=3621ca211a",
         "status":  200,
         "type":  "fetch",
-        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\vm\\famas.glb__P3Y9MzYyMWNhMjExYQ"
+        "file":  "runtime\\z\\models\\cs2\\vm\\famas.glb__P3Y9MzYyMWNhMjExYQ"
     },
     {
         "url":  "/vendor/addons/libs/draco/draco_decoder.js",
@@ -1479,289 +1479,289 @@
         "url":  "/z/models/cs2/vm/ssg08.glb?v=592a0cee05",
         "status":  200,
         "type":  "fetch",
-        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\vm\\ssg08.glb__P3Y9NTkyYTBjZWUwNQ"
+        "file":  "runtime\\z\\models\\cs2\\vm\\ssg08.glb__P3Y9NTkyYTBjZWUwNQ"
     },
     {
         "url":  "/z/models/cs2/vm/aug.glb?v=6cc8f36e49",
         "status":  200,
         "type":  "fetch",
-        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\vm\\aug.glb__P3Y9NmNjOGYzNmU0OQ"
+        "file":  "runtime\\z\\models\\cs2\\vm\\aug.glb__P3Y9NmNjOGYzNmU0OQ"
     },
     {
         "url":  "/z/models/cs2/vm/awp.glb?v=4bd12a9fd0",
         "status":  200,
         "type":  "fetch",
-        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\vm\\awp.glb__P3Y9NGJkMTJhOWZkMA"
+        "file":  "runtime\\z\\models\\cs2\\vm\\awp.glb__P3Y9NGJkMTJhOWZkMA"
     },
     {
         "url":  "/z/models/cs2/vm/flash.glb?v=aff2e198e1",
         "status":  200,
         "type":  "fetch",
-        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\vm\\flash.glb__P3Y9YWZmMmUxOThlMQ"
+        "file":  "runtime\\z\\models\\cs2\\vm\\flash.glb__P3Y9YWZmMmUxOThlMQ"
     },
     {
         "url":  "/models/oasis_props.glb?v=e54feef8ae",
         "status":  200,
         "type":  "fetch",
-        "file":  "runtime\\_external\\assets.clutcher.io\\models\\oasis_props.glb__P3Y9ZTU0ZmVlZjhhZQ"
+        "file":  "runtime\\models\\oasis_props.glb__P3Y9ZTU0ZmVlZjhhZQ"
     },
     {
         "url":  "/z/models/cs2/vm/m4a1s.glb?v=f2a40db688",
         "status":  200,
         "type":  "fetch",
-        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\vm\\m4a1s.glb__P3Y9ZjJhNDBkYjY4OA"
+        "file":  "runtime\\z\\models\\cs2\\vm\\m4a1s.glb__P3Y9ZjJhNDBkYjY4OA"
     },
     {
         "url":  "/z/models/cs2/vm/smoke.glb?v=27fd7b1a24",
         "status":  200,
         "type":  "fetch",
-        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\vm\\smoke.glb__P3Y9MjdmZDdiMWEyNA"
+        "file":  "runtime\\z\\models\\cs2\\vm\\smoke.glb__P3Y9MjdmZDdiMWEyNA"
     },
     {
         "url":  "/z/models/cs2/vm/he.glb?v=9b19a2e396",
         "status":  200,
         "type":  "fetch",
-        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\vm\\he.glb__P3Y9OWIxOWEyZTM5Ng"
+        "file":  "runtime\\z\\models\\cs2\\vm\\he.glb__P3Y9OWIxOWEyZTM5Ng"
     },
     {
         "url":  "/z/models/cs2/vm/incend.glb?v=6f2afc7e37",
         "status":  200,
         "type":  "fetch",
-        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\vm\\incend.glb__P3Y9NmYyYWZjN2UzNw"
+        "file":  "runtime\\z\\models\\cs2\\vm\\incend.glb__P3Y9NmYyYWZjN2UzNw"
     },
     {
         "url":  "/z/models/cs2/glove_fullfinger.glb?v=0d8320492b",
         "status":  200,
         "type":  "fetch",
-        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\glove_fullfinger.glb__P3Y9MGQ4MzIwNDkyYg"
+        "file":  "runtime\\z\\models\\cs2\\glove_fullfinger.glb__P3Y9MGQ4MzIwNDkyYg"
     },
     {
         "url":  "/z/models/cs2/weapon_pist_p250.glb?v=1bee9f9021",
         "status":  200,
         "type":  "fetch",
-        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\weapon_pist_p250.glb__P3Y9MWJlZTlmOTAyMQ"
+        "file":  "runtime\\z\\models\\cs2\\weapon_pist_p250.glb__P3Y9MWJlZTlmOTAyMQ"
     },
     {
         "url":  "/z/models/cs2/weapon_pist_usp_silencer.glb?v=b874e42449",
         "status":  200,
         "type":  "fetch",
-        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\weapon_pist_usp_silencer.glb__P3Y9Yjg3NGU0MjQ0OQ"
+        "file":  "runtime\\z\\models\\cs2\\weapon_pist_usp_silencer.glb__P3Y9Yjg3NGU0MjQ0OQ"
     },
     {
         "url":  "/z/models/cs2/vm/decoy.glb?v=f042a57967",
         "status":  200,
         "type":  "fetch",
-        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\vm\\decoy.glb__P3Y9ZjA0MmE1Nzk2Nw"
+        "file":  "runtime\\z\\models\\cs2\\vm\\decoy.glb__P3Y9ZjA0MmE1Nzk2Nw"
     },
     {
         "url":  "/z/models/cs2/vm/tec9.glb?v=f006ec9d61",
         "status":  200,
         "type":  "fetch",
-        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\vm\\tec9.glb__P3Y9ZjAwNmVjOWQ2MQ"
+        "file":  "runtime\\z\\models\\cs2\\vm\\tec9.glb__P3Y9ZjAwNmVjOWQ2MQ"
     },
     {
         "url":  "/z/models/cs2/vm/mac10.glb?v=bb9f97e063",
         "status":  200,
         "type":  "fetch",
-        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\vm\\mac10.glb__P3Y9YmI5Zjk3ZTA2Mw"
+        "file":  "runtime\\z\\models\\cs2\\vm\\mac10.glb__P3Y9YmI5Zjk3ZTA2Mw"
     },
     {
         "url":  "/z/models/cs2/weapon_pist_fiveseven.glb?v=f2804068b2",
         "status":  200,
         "type":  "fetch",
-        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\weapon_pist_fiveseven.glb__P3Y9ZjI4MDQwNjhiMg"
+        "file":  "runtime\\z\\models\\cs2\\weapon_pist_fiveseven.glb__P3Y9ZjI4MDQwNjhiMg"
     },
     {
         "url":  "/z/models/cs2/vm/glock.glb?v=428488752e",
         "status":  200,
         "type":  "fetch",
-        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\vm\\glock.glb__P3Y9NDI4NDg4NzUyZQ"
+        "file":  "runtime\\z\\models\\cs2\\vm\\glock.glb__P3Y9NDI4NDg4NzUyZQ"
     },
     {
         "url":  "/z/models/cs2/weapon_gren_smoke.glb?v=0b19168864",
         "status":  200,
         "type":  "fetch",
-        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\weapon_gren_smoke.glb__P3Y9MGIxOTE2ODg2NA"
+        "file":  "runtime\\z\\models\\cs2\\weapon_gren_smoke.glb__P3Y9MGIxOTE2ODg2NA"
     },
     {
         "url":  "/z/models/cs2/weapon_pist_elite.glb?v=5743581a8c",
         "status":  200,
         "type":  "fetch",
-        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\weapon_pist_elite.glb__P3Y9NTc0MzU4MWE4Yw"
+        "file":  "runtime\\z\\models\\cs2\\weapon_pist_elite.glb__P3Y9NTc0MzU4MWE4Yw"
     },
     {
         "url":  "/z/models/cs2/weapon_shot_xm1014.glb?v=03acb2c22f",
         "status":  200,
         "type":  "fetch",
-        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\weapon_shot_xm1014.glb__P3Y9MDNhY2IyYzIyZg"
+        "file":  "runtime\\z\\models\\cs2\\weapon_shot_xm1014.glb__P3Y9MDNhY2IyYzIyZg"
     },
     {
         "url":  "/z/models/cs2/weapon_pist_deagle.glb?v=ae60593376",
         "status":  200,
         "type":  "fetch",
-        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\weapon_pist_deagle.glb__P3Y9YWU2MDU5MzM3Ng"
+        "file":  "runtime\\z\\models\\cs2\\weapon_pist_deagle.glb__P3Y9YWU2MDU5MzM3Ng"
     },
     {
         "url":  "/z/models/cs2/weapon_shot_nova.glb?v=002f482b1d",
         "status":  200,
         "type":  "fetch",
-        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\weapon_shot_nova.glb__P3Y9MDAyZjQ4MmIxZA"
+        "file":  "runtime\\z\\models\\cs2\\weapon_shot_nova.glb__P3Y9MDAyZjQ4MmIxZA"
     },
     {
         "url":  "/z/models/cs2/vm/galil.glb?v=5a910b59e8",
         "status":  200,
         "type":  "fetch",
-        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\vm\\galil.glb__P3Y9NWE5MTBiNTllOA"
+        "file":  "runtime\\z\\models\\cs2\\vm\\galil.glb__P3Y9NWE5MTBiNTllOA"
     },
     {
         "url":  "/z/models/cs2/vm/sg553.glb?v=d7b5ea98c8",
         "status":  200,
         "type":  "fetch",
-        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\vm\\sg553.glb__P3Y9ZDdiNWVhOThjOA"
+        "file":  "runtime\\z\\models\\cs2\\vm\\sg553.glb__P3Y9ZDdiNWVhOThjOA"
     },
     {
         "url":  "/z/models/cs2/vm/molotov.glb?v=275b295d3d",
         "status":  200,
         "type":  "fetch",
-        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\vm\\molotov.glb__P3Y9Mjc1YjI5NWQzZA"
+        "file":  "runtime\\z\\models\\cs2\\vm\\molotov.glb__P3Y9Mjc1YjI5NWQzZA"
     },
     {
         "url":  "/z/models/cs2/weapon_smg_mp9.glb?v=1b099c07c0",
         "status":  200,
         "type":  "fetch",
-        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\weapon_smg_mp9.glb__P3Y9MWIwOTljMDdjMA"
+        "file":  "runtime\\z\\models\\cs2\\weapon_smg_mp9.glb__P3Y9MWIwOTljMDdjMA"
     },
     {
         "url":  "/z/models/cs2/weapon_gren_flash.glb?v=487122729e",
         "status":  200,
         "type":  "fetch",
-        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\weapon_gren_flash.glb__P3Y9NDg3MTIyNzI5ZQ"
+        "file":  "runtime\\z\\models\\cs2\\weapon_gren_flash.glb__P3Y9NDg3MTIyNzI5ZQ"
     },
     {
         "url":  "/z/models/cs2/weapon_gren_he.glb?v=6dd168b041",
         "status":  200,
         "type":  "fetch",
-        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\weapon_gren_he.glb__P3Y9NmRkMTY4YjA0MQ"
+        "file":  "runtime\\z\\models\\cs2\\weapon_gren_he.glb__P3Y9NmRkMTY4YjA0MQ"
     },
     {
         "url":  "/z/models/cs2/weapon_smg_mp5sd.glb?v=ef22ee5ea5",
         "status":  200,
         "type":  "fetch",
-        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\weapon_smg_mp5sd.glb__P3Y9ZWYyMmVlNWVhNQ"
+        "file":  "runtime\\z\\models\\cs2\\weapon_smg_mp5sd.glb__P3Y9ZWYyMmVlNWVhNQ"
     },
     {
         "url":  "/z/models/cs2/weapon_gren_incend.glb?v=b0ed627618",
         "status":  200,
         "type":  "fetch",
-        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\weapon_gren_incend.glb__P3Y9YjBlZDYyNzYxOA"
+        "file":  "runtime\\z\\models\\cs2\\weapon_gren_incend.glb__P3Y9YjBlZDYyNzYxOA"
     },
     {
         "url":  "/z/models/cs2/weapon_gren_decoy.glb?v=a40a536295",
         "status":  200,
         "type":  "fetch",
-        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\weapon_gren_decoy.glb__P3Y9YTQwYTUzNjI5NQ"
+        "file":  "runtime\\z\\models\\cs2\\weapon_gren_decoy.glb__P3Y9YTQwYTUzNjI5NQ"
     },
     {
         "url":  "/z/models/cs2/weapon_smg_p90.glb?v=eea836ebae",
         "status":  200,
         "type":  "fetch",
-        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\weapon_smg_p90.glb__P3Y9ZWVhODM2ZWJhZQ"
+        "file":  "runtime\\z\\models\\cs2\\weapon_smg_p90.glb__P3Y9ZWVhODM2ZWJhZQ"
     },
     {
         "url":  "/z/models/cs2/vm/ak47.glb?v=1c2e6a5ba5",
         "status":  200,
         "type":  "fetch",
-        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\vm\\ak47.glb__P3Y9MWMyZTZhNWJhNQ"
+        "file":  "runtime\\z\\models\\cs2\\vm\\ak47.glb__P3Y9MWMyZTZhNWJhNQ"
     },
     {
         "url":  "/z/models/cs2/cs2_carry.glb?v=97809bd695",
         "status":  200,
         "type":  "fetch",
-        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\cs2_carry.glb__P3Y9OTc4MDliZDY5NQ"
+        "file":  "runtime\\z\\models\\cs2\\cs2_carry.glb__P3Y9OTc4MDliZDY5NQ"
     },
     {
         "url":  "/z/models/cs2/weapon_rif_m4a1_silencer.glb?v=dfd2cee609",
         "status":  200,
         "type":  "fetch",
-        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\weapon_rif_m4a1_silencer.glb__P3Y9ZGZkMmNlZTYwOQ"
+        "file":  "runtime\\z\\models\\cs2\\weapon_rif_m4a1_silencer.glb__P3Y9ZGZkMmNlZTYwOQ"
     },
     {
         "url":  "/z/models/cs2/weapon_rif_famas.glb?v=9d4a215b89",
         "status":  200,
         "type":  "fetch",
-        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\weapon_rif_famas.glb__P3Y9OWQ0YTIxNWI4OQ"
+        "file":  "runtime\\z\\models\\cs2\\weapon_rif_famas.glb__P3Y9OWQ0YTIxNWI4OQ"
     },
     {
         "url":  "/z/models/cs2/weapon_snip_awp.glb?v=370642f242",
         "status":  200,
         "type":  "fetch",
-        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\weapon_snip_awp.glb__P3Y9MzcwNjQyZjI0Mg"
+        "file":  "runtime\\z\\models\\cs2\\weapon_snip_awp.glb__P3Y9MzcwNjQyZjI0Mg"
     },
     {
         "url":  "/z/models/cs2/weapon_snip_ssg08.glb?v=a941a21d7e",
         "status":  200,
         "type":  "fetch",
-        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\weapon_snip_ssg08.glb__P3Y9YTk0MWEyMWQ3ZQ"
+        "file":  "runtime\\z\\models\\cs2\\weapon_snip_ssg08.glb__P3Y9YTk0MWEyMWQ3ZQ"
     },
     {
         "url":  "/z/models/cs2/weapon_rif_aug.glb?v=0f9985bfed",
         "status":  200,
         "type":  "fetch",
-        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\weapon_rif_aug.glb__P3Y9MGY5OTg1YmZlZA"
+        "file":  "runtime\\z\\models\\cs2\\weapon_rif_aug.glb__P3Y9MGY5OTg1YmZlZA"
     },
     {
         "url":  "/z/models/cs2/weapon_pist_tec9.glb?v=0019619b19",
         "status":  200,
         "type":  "fetch",
-        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\weapon_pist_tec9.glb__P3Y9MDAxOTYxOWIxOQ"
+        "file":  "runtime\\z\\models\\cs2\\weapon_pist_tec9.glb__P3Y9MDAxOTYxOWIxOQ"
     },
     {
         "url":  "/z/models/cs2/weapon_smg_mac10.glb?v=0baded268b",
         "status":  200,
         "type":  "fetch",
-        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\weapon_smg_mac10.glb__P3Y9MGJhZGVkMjY4Yg"
+        "file":  "runtime\\z\\models\\cs2\\weapon_smg_mac10.glb__P3Y9MGJhZGVkMjY4Yg"
     },
     {
         "url":  "/z/models/cs2/weapon_pist_glock18.glb?v=8c33918cc7",
         "status":  200,
         "type":  "fetch",
-        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\weapon_pist_glock18.glb__P3Y9OGMzMzkxOGNjNw"
+        "file":  "runtime\\z\\models\\cs2\\weapon_pist_glock18.glb__P3Y9OGMzMzkxOGNjNw"
     },
     {
         "url":  "/z/models/cs2/weapon_gren_molotov.glb?v=1ccbbb20ba",
         "status":  200,
         "type":  "fetch",
-        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\weapon_gren_molotov.glb__P3Y9MWNjYmJiMjBiYQ"
+        "file":  "runtime\\z\\models\\cs2\\weapon_gren_molotov.glb__P3Y9MWNjYmJiMjBiYQ"
     },
     {
         "url":  "/z/models/cs2/weapon_rif_galilar.glb?v=ee4b33ecea",
         "status":  200,
         "type":  "fetch",
-        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\weapon_rif_galilar.glb__P3Y9ZWU0YjMzZWNlYQ"
+        "file":  "runtime\\z\\models\\cs2\\weapon_rif_galilar.glb__P3Y9ZWU0YjMzZWNlYQ"
     },
     {
         "url":  "/z/models/cs2/weapon_rif_ak47.glb?v=713627ef2e",
         "status":  200,
         "type":  "fetch",
-        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\weapon_rif_ak47.glb__P3Y9NzEzNjI3ZWYyZQ"
+        "file":  "runtime\\z\\models\\cs2\\weapon_rif_ak47.glb__P3Y9NzEzNjI3ZWYyZQ"
     },
     {
         "url":  "/z/models/cs2/weapon_rif_sg556.glb?v=11f99f36af",
         "status":  200,
         "type":  "fetch",
-        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\weapon_rif_sg556.glb__P3Y9MTFmOTlmMzZhZg"
+        "file":  "runtime\\z\\models\\cs2\\weapon_rif_sg556.glb__P3Y9MTFmOTlmMzZhZg"
     },
     {
         "url":  "/z/models/cs2/cs2_actions.glb?v=f8cc1ac339",
         "status":  200,
         "type":  "fetch",
-        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\cs2_actions.glb__P3Y9ZjhjYzFhYzMzOQ"
+        "file":  "runtime\\z\\models\\cs2\\cs2_actions.glb__P3Y9ZjhjYzFhYzMzOQ"
     },
     {
         "url":  "/z/models/cs2/weapon_rif_m4a4.glb?v=28889e2ea4",
         "status":  200,
         "type":  "fetch",
-        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\weapon_rif_m4a4.glb__P3Y9Mjg4ODllMmVhNA"
+        "file":  "runtime\\z\\models\\cs2\\weapon_rif_m4a4.glb__P3Y9Mjg4ODllMmVhNA"
     },
     {
         "url":  "/models/oasis.glb?v=c821d0d2ae",
@@ -1773,25 +1773,25 @@
         "url":  "/models/cs2/shells/glock_casing.glb?v=c508200229",
         "status":  200,
         "type":  "fetch",
-        "file":  "runtime\\_external\\assets.clutcher.io\\models\\cs2\\shells\\glock_casing.glb__P3Y9YzUwODIwMDIyOQ"
+        "file":  "runtime\\models\\cs2\\shells\\glock_casing.glb__P3Y9YzUwODIwMDIyOQ"
     },
     {
         "url":  "/z/models/cs2/shells/p90_casing.glb?v=fc31a5e38b",
         "status":  200,
         "type":  "fetch",
-        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\shells\\p90_casing.glb__P3Y9ZmMzMWE1ZTM4Yg"
+        "file":  "runtime\\z\\models\\cs2\\shells\\p90_casing.glb__P3Y9ZmMzMWE1ZTM4Yg"
     },
     {
         "url":  "/models/cs2/shells/deagle_casing.glb?v=690202de25",
         "status":  200,
         "type":  "fetch",
-        "file":  "runtime\\_external\\assets.clutcher.io\\models\\cs2\\shells\\deagle_casing.glb__P3Y9NjkwMjAyZGUyNQ"
+        "file":  "runtime\\models\\cs2\\shells\\deagle_casing.glb__P3Y9NjkwMjAyZGUyNQ"
     },
     {
         "url":  "/z/models/cs2/shells/awp_casing.glb?v=8ec127b42a",
         "status":  200,
         "type":  "fetch",
-        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\shells\\awp_casing.glb__P3Y9OGVjMTI3YjQyYQ"
+        "file":  "runtime\\z\\models\\cs2\\shells\\awp_casing.glb__P3Y9OGVjMTI3YjQyYQ"
     },
     {
         "url":  "/ui/paints/paints.json",
@@ -1803,19 +1803,19 @@
         "url":  "/z/models/cs2/shells/ak47_casing.glb?v=49fdb13a5a",
         "status":  200,
         "type":  "fetch",
-        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\shells\\ak47_casing.glb__P3Y9NDlmZGIxM2E1YQ"
+        "file":  "runtime\\z\\models\\cs2\\shells\\ak47_casing.glb__P3Y9NDlmZGIxM2E1YQ"
     },
     {
         "url":  "/z/models/cs2/shells/xm1014_casing.glb?v=cf0b0123d1",
         "status":  200,
         "type":  "fetch",
-        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\shells\\xm1014_casing.glb__P3Y9Y2YwYjAxMjNkMQ"
+        "file":  "runtime\\z\\models\\cs2\\shells\\xm1014_casing.glb__P3Y9Y2YwYjAxMjNkMQ"
     },
     {
         "url":  "/z/models/cs2/shells/mag7_casing.glb?v=e039b37f01",
         "status":  200,
         "type":  "fetch",
-        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\shells\\mag7_casing.glb__P3Y9ZTAzOWIzN2YwMQ"
+        "file":  "runtime\\z\\models\\cs2\\shells\\mag7_casing.glb__P3Y9ZTAzOWIzN2YwMQ"
     },
     {
         "url":  "/textures/fx_c4_lens.webp",
@@ -1911,61 +1911,61 @@
         "url":  "/models/cs2/shells/glock_orm.png?v=58f14e7707",
         "status":  200,
         "type":  "image",
-        "file":  "runtime\\_external\\assets.clutcher.io\\models\\cs2\\shells\\glock_orm.png__P3Y9NThmMTRlNzcwNw"
+        "file":  "runtime\\models\\cs2\\shells\\glock_orm.png__P3Y9NThmMTRlNzcwNw"
     },
     {
         "url":  "/z/models/cs2/tm_phoenix.glb?v=4281b49e9d",
         "status":  200,
         "type":  "fetch",
-        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\tm_phoenix.glb__P3Y9NDI4MWI0OWU5ZA"
+        "file":  "runtime\\z\\models\\cs2\\tm_phoenix.glb__P3Y9NDI4MWI0OWU5ZA"
     },
     {
         "url":  "/models/cs2/shells/ak47_normal.png?v=c7e4e1c112",
         "status":  200,
         "type":  "image",
-        "file":  "runtime\\_external\\assets.clutcher.io\\models\\cs2\\shells\\ak47_normal.png__P3Y9YzdlNGUxYzExMg"
+        "file":  "runtime\\models\\cs2\\shells\\ak47_normal.png__P3Y9YzdlNGUxYzExMg"
     },
     {
         "url":  "/models/cs2/shells/ak47_color.png?v=f5ace29393",
         "status":  200,
         "type":  "image",
-        "file":  "runtime\\_external\\assets.clutcher.io\\models\\cs2\\shells\\ak47_color.png__P3Y9ZjVhY2UyOTM5Mw"
+        "file":  "runtime\\models\\cs2\\shells\\ak47_color.png__P3Y9ZjVhY2UyOTM5Mw"
     },
     {
         "url":  "/models/cs2/shells/glock_normal.png?v=7dc1073787",
         "status":  200,
         "type":  "image",
-        "file":  "runtime\\_external\\assets.clutcher.io\\models\\cs2\\shells\\glock_normal.png__P3Y9N2RjMTA3Mzc4Nw"
+        "file":  "runtime\\models\\cs2\\shells\\glock_normal.png__P3Y9N2RjMTA3Mzc4Nw"
     },
     {
         "url":  "/models/cs2/shells/ak47_orm.png?v=b31a764189",
         "status":  200,
         "type":  "image",
-        "file":  "runtime\\_external\\assets.clutcher.io\\models\\cs2\\shells\\ak47_orm.png__P3Y9YjMxYTc2NDE4OQ"
+        "file":  "runtime\\models\\cs2\\shells\\ak47_orm.png__P3Y9YjMxYTc2NDE4OQ"
     },
     {
         "url":  "/models/cs2/shells/glock_color.png?v=2045bf0372",
         "status":  200,
         "type":  "image",
-        "file":  "runtime\\_external\\assets.clutcher.io\\models\\cs2\\shells\\glock_color.png__P3Y9MjA0NWJmMDM3Mg"
+        "file":  "runtime\\models\\cs2\\shells\\glock_color.png__P3Y9MjA0NWJmMDM3Mg"
     },
     {
         "url":  "/models/cs2/shells/deagle_normal.png?v=52436ef36e",
         "status":  200,
         "type":  "image",
-        "file":  "runtime\\_external\\assets.clutcher.io\\models\\cs2\\shells\\deagle_normal.png__P3Y9NTI0MzZlZjM2ZQ"
+        "file":  "runtime\\models\\cs2\\shells\\deagle_normal.png__P3Y9NTI0MzZlZjM2ZQ"
     },
     {
         "url":  "/models/cs2/shells/deagle_orm.png?v=411cd29645",
         "status":  200,
         "type":  "image",
-        "file":  "runtime\\_external\\assets.clutcher.io\\models\\cs2\\shells\\deagle_orm.png__P3Y9NDExY2QyOTY0NQ"
+        "file":  "runtime\\models\\cs2\\shells\\deagle_orm.png__P3Y9NDExY2QyOTY0NQ"
     },
     {
         "url":  "/models/cs2/shells/deagle_color.png?v=0b783d03f6",
         "status":  200,
         "type":  "image",
-        "file":  "runtime\\_external\\assets.clutcher.io\\models\\cs2\\shells\\deagle_color.png__P3Y9MGI3ODNkMDNmNg"
+        "file":  "runtime\\models\\cs2\\shells\\deagle_color.png__P3Y9MGI3ODNkMDNmNg"
     },
     {
         "url":  "/textures/fx_crack_growth_01.png",
@@ -1977,43 +1977,43 @@
         "url":  "/models/cs2/shells/awp_color.png?v=5e1d492a26",
         "status":  200,
         "type":  "image",
-        "file":  "runtime\\_external\\assets.clutcher.io\\models\\cs2\\shells\\awp_color.png__P3Y9NWUxZDQ5MmEyNg"
+        "file":  "runtime\\models\\cs2\\shells\\awp_color.png__P3Y9NWUxZDQ5MmEyNg"
     },
     {
         "url":  "/models/cs2/shells/xm1014_normal.png?v=4c5f7381ed",
         "status":  200,
         "type":  "image",
-        "file":  "runtime\\_external\\assets.clutcher.io\\models\\cs2\\shells\\xm1014_normal.png__P3Y9NGM1ZjczODFlZA"
+        "file":  "runtime\\models\\cs2\\shells\\xm1014_normal.png__P3Y9NGM1ZjczODFlZA"
     },
     {
         "url":  "/models/cs2/shells/xm1014_color.png?v=cead163e78",
         "status":  200,
         "type":  "image",
-        "file":  "runtime\\_external\\assets.clutcher.io\\models\\cs2\\shells\\xm1014_color.png__P3Y9Y2VhZDE2M2U3OA"
+        "file":  "runtime\\models\\cs2\\shells\\xm1014_color.png__P3Y9Y2VhZDE2M2U3OA"
     },
     {
         "url":  "/models/cs2/shells/awp_orm.png?v=45a1222da4",
         "status":  200,
         "type":  "image",
-        "file":  "runtime\\_external\\assets.clutcher.io\\models\\cs2\\shells\\awp_orm.png__P3Y9NDVhMTIyMmRhNA"
+        "file":  "runtime\\models\\cs2\\shells\\awp_orm.png__P3Y9NDVhMTIyMmRhNA"
     },
     {
         "url":  "/models/cs2/shells/mag7_color.png?v=2e4170645f",
         "status":  200,
         "type":  "image",
-        "file":  "runtime\\_external\\assets.clutcher.io\\models\\cs2\\shells\\mag7_color.png__P3Y9MmU0MTcwNjQ1Zg"
+        "file":  "runtime\\models\\cs2\\shells\\mag7_color.png__P3Y9MmU0MTcwNjQ1Zg"
     },
     {
         "url":  "/models/cs2/shells/xm1014_orm.png?v=496dfbd907",
         "status":  200,
         "type":  "image",
-        "file":  "runtime\\_external\\assets.clutcher.io\\models\\cs2\\shells\\xm1014_orm.png__P3Y9NDk2ZGZiZDkwNw"
+        "file":  "runtime\\models\\cs2\\shells\\xm1014_orm.png__P3Y9NDk2ZGZiZDkwNw"
     },
     {
         "url":  "/models/cs2/shells/awp_normal.png?v=2d1168ded1",
         "status":  200,
         "type":  "image",
-        "file":  "runtime\\_external\\assets.clutcher.io\\models\\cs2\\shells\\awp_normal.png__P3Y9MmQxMTY4ZGVkMQ"
+        "file":  "runtime\\models\\cs2\\shells\\awp_normal.png__P3Y9MmQxMTY4ZGVkMQ"
     },
     {
         "url":  "/textures/fx_c4_burst.webp",
@@ -2049,7 +2049,7 @@
         "url":  "/z/models/cs2/weapon_pist_hkp2000.glb?v=4ffcfb1759",
         "status":  200,
         "type":  "fetch",
-        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\weapon_pist_hkp2000.glb__P3Y9NGZmY2ZiMTc1OQ"
+        "file":  "runtime\\z\\models\\cs2\\weapon_pist_hkp2000.glb__P3Y9NGZmY2ZiMTc1OQ"
     },
     {
         "url":  "/src/gloveshaders-DZ_Fdhsb.js",

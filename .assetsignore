@@ -4,5 +4,5 @@
 worker/**
 wrangler.toml
 .assetsignore
-csgo/_external/assets.clutcher.io/models/oasis.glb
-csgo/_external/assets.clutcher.io/z/models/oasis_mobile.glb
+csgo/models/oasis.glb
+csgo/z/models/oasis_mobile.glb

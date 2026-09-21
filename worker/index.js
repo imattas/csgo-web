@@ -14,7 +14,7 @@ export default {
           try {
             for (let part = 1; part <= partCount; part++) {
               const suffix = String(part).padStart(3, '0');
-              const partRequest = new Request(new URL(`/csgo/_external/assets.clutcher.io${assetPath}.part${suffix}`, request.url));
+              const partRequest = new Request(new URL(`/csgo${assetPath}.part${suffix}`, request.url));
               const response = await env.ASSETS.fetch(partRequest);
               if (!response.ok || !response.body) throw new Error(`Missing local asset part ${suffix}`);
               const reader = response.body.getReader();

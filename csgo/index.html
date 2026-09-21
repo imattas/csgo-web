@@ -7,7 +7,7 @@
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-<meta name="apple-mobile-web-app-title" content="Clutcher">
+<meta name="apple-mobile-web-app-title" content="CS:GO Web">
 <!-- CS2's own team-counter stylesheet, converted from Panorama by
      tools/cs2_panorama_css.py. Generated -- do not hand-edit. -->
 <link rel="stylesheet" href="ui/cs2_teamcounter.css">
@@ -2207,13 +2207,13 @@
   .csgo-web-lowend #pause *, .csgo-web-lowend #lo-modal *, .csgo-web-lowend #caseinfo * { animation-duration: .01ms !important; transition-duration: .01ms !important; }
 </style>
 </head>
-<style>html.clutcher-autoboot #menu:not(.pausemode){display:none!important}html.clutcher-autoboot #menu.pausemode{display:block!important}html.clutcher-autoboot #menu.clutcher-autoboot-hidden.pausemode{display:block!important}</style>
-<script>document.documentElement.classList.add('clutcher-autoboot');</script>
+<style>html.csgo-web-autoboot #menu:not(.pausemode){display:none!important}html.csgo-web-autoboot #menu.pausemode{display:block!important}html.csgo-web-autoboot #menu.csgo-web-autoboot-hidden.pausemode{display:block!important}</style>
+<script>document.documentElement.classList.add('csgo-web-autoboot');</script>
 <script>
   // Resolve captured asset URLs to the hashed local files in this checkout.
   (() => {
     const largeLocal = ['/models/oasis.glb', '/z/models/oasis_mobile.glb'];
-    const localAssetPrefix = '/csgo/_external/assets.clutcher.io';
+    const localAssetPrefix = '/csgo';
     const isLocalDev = /^(localhost|127\.0\.0\.1)$/.test(location.hostname);
     const fetch0 = window.fetch.bind(window);
     const manifestReady = fetch0('./runtime-manifest.json').then(response => response.json()).then(entries => {
@@ -2230,7 +2230,7 @@
     const rewrite = value => {
       try {
         const u = new URL(String(value), location.href);
-        if (isLocalDev && u.hostname === 'assets.clutcher.io') {
+        if (isLocalDev && u.hostname !== location.hostname) {
           const localAssetMap = window.__csgoAssetMap && window.__csgoAssetMap.get(u.pathname + u.search);
           return localAssetMap || localAssetPrefix + u.pathname + u.search;
         }
@@ -2265,7 +2265,7 @@
     // Local build: boot straight into an Oasis team-deathmatch round.
     (() => {
       const style = document.createElement('style');
-      style.textContent = '#menu.clutcher-autoboot-hidden{display:none!important}' +
+      style.textContent = '#menu.csgo-web-autoboot-hidden{display:none!important}' +
         '#tabs [data-tab="locker"],#tabs [data-tab="cases"],#tab-locker,#tab-cases{display:none!important}' +
         '#pause .phowto{display:none!important}' +
         '#buymenu .bm-icon{width:calc(100% - 24px)!important}' +
@@ -2550,7 +2550,7 @@
           if (button.dataset.cgwQ) { game.setGfxManual(); game.setQuality(button.dataset.cgwQ); }
           if (button.dataset.cgwS) game.setRenderScale(button.dataset.cgwS);
           if (button.dataset.cgwShadow) game.setShadows(button.dataset.cgwShadow === '1');
-          if (button.dataset.cgwFps) { settings.graphics.fpsCap = Number(button.dataset.cgwFps); saveSettings(settings); game.fpsCap = Number(button.dataset.cgwFps); localStorage.setItem('clutcher_fpscap', button.dataset.cgwFps); }
+          if (button.dataset.cgwFps) { settings.graphics.fpsCap = Number(button.dataset.cgwFps); saveSettings(settings); game.fpsCap = Number(button.dataset.cgwFps); localStorage.setItem('csgo_web_fpscap', button.dataset.cgwFps); }
         });
         panel.addEventListener('change', event => {
           const fps = event.target.closest('[data-cgw-fps-input]');
@@ -2566,11 +2566,6 @@
         const logo = document.getElementById('logo');
         if (logo) logo.textContent = 'CS:GO WEB';
         for (const element of document.querySelectorAll('#sitebadge, .sb-name')) element.textContent = 'CS:GO WEB';
-        const walker = document.createTreeWalker(document.body, NodeFilter.SHOW_TEXT);
-        let node;
-        while ((node = walker.nextNode())) {
-          if (/clutcher\.io/i.test(node.nodeValue)) node.nodeValue = node.nodeValue.replace(/clutcher\.io/ig, 'CS:GO Web');
-        }
       };
       const applyAggressiveLowEndOptimizations = (game, enabled) => {
         if (!game) return;
@@ -2690,9 +2685,9 @@
           // Skip the fullscreen post-processing pass on the low-end profile.
           // The regular renderer remains active, preserving scene/model quality.
           game.postfx = null;
-          localStorage.setItem('clutcher_gfxauto', '0');
-          localStorage.setItem('clutcher_autotier', 'low');
-          localStorage.setItem('clutcher_fpscap', '60');
+          localStorage.setItem('csgo_web_gfxauto', '0');
+          localStorage.setItem('csgo_web_autotier', 'low');
+          localStorage.setItem('csgo_web_fpscap', '60');
         } catch (error) { console.warn('performance profile', error); }
         const bots = () => game.botMgr?.bots || [];
         const botProto = bots()[0] && Object.getPrototypeOf(bots()[0]);
@@ -2759,7 +2754,7 @@
           (await waitFor('Oasis')).click();
           (await waitFor('PLAY')).click();
           const menu = document.getElementById('menu');
-          if (menu) menu.classList.add('clutcher-autoboot-hidden');
+          if (menu) menu.classList.add('csgo-web-autoboot-hidden');
           await new Promise(resolve => {
             const started = performance.now();
             const poll = () => {

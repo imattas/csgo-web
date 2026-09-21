@@ -1,4 +1,4 @@
-name = "web-dashers"
+name = "csgo-web"
 main = "worker/index.js"
 compatibility_date = "2026-09-20"
 
