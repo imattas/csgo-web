@@ -1,4 +1,7 @@
 # Large binary game assets use Git LFS instead of regular Git blobs.
-csgo/_external/**/*.glb filter=lfs diff=lfs merge=lfs -text
-csgo/_external/**/*.glb.part* filter=lfs diff=lfs merge=lfs -text
-csgo/_external/**/*.bin filter=lfs diff=lfs merge=lfs -text
+csgo/models/**/*.glb filter=lfs diff=lfs merge=lfs -text
+csgo/models/**/*.glb.part* filter=lfs diff=lfs merge=lfs -text
+csgo/models/**/*.bin filter=lfs diff=lfs merge=lfs -text
+csgo/z/models/**/*.glb filter=lfs diff=lfs merge=lfs -text
+csgo/z/models/**/*.glb.part* filter=lfs diff=lfs merge=lfs -text
+csgo/z/models/**/*.bin filter=lfs diff=lfs merge=lfs -text
