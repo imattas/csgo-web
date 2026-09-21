@@ -1,0 +1,8 @@
+# Keep nested repository metadata and local Wrangler state out of the deploy.
+**/.git/**
+**/.wrangler/**
+worker/**
+wrangler.toml
+.assetsignore
+csgo/_external/assets.clutcher.io/models/oasis.glb
+csgo/_external/assets.clutcher.io/z/models/oasis_mobile.glb

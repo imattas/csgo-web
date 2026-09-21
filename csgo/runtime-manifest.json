@@ -1,0 +1,2060 @@
+[
+    {
+        "url":  "/",
+        "status":  200,
+        "type":  "document",
+        "file":  "runtime\\index.html"
+    },
+    {
+        "url":  "/ui/bt_armor.svg",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\bt_armor.svg"
+    },
+    {
+        "url":  "/ui/radar_de_dust2.png",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\radar_de_dust2.png"
+    },
+    {
+        "url":  "/ui/cs2_bottom.css",
+        "status":  200,
+        "type":  "stylesheet",
+        "file":  "runtime\\ui\\cs2_bottom.css"
+    },
+    {
+        "url":  "/ui/cs2_teamcounter.css",
+        "status":  200,
+        "type":  "stylesheet",
+        "file":  "runtime\\ui\\cs2_teamcounter.css"
+    },
+    {
+        "url":  "/ui/cs2_weapons.css",
+        "status":  200,
+        "type":  "stylesheet",
+        "file":  "runtime\\ui\\cs2_weapons.css"
+    },
+    {
+        "url":  "/ui/fonts/stratum2condensed-regular.otf",
+        "status":  200,
+        "type":  "font",
+        "file":  "runtime\\ui\\fonts\\stratum2condensed-regular.otf"
+    },
+    {
+        "url":  "/ui/fonts/stratum2_tf_bold.otf",
+        "status":  200,
+        "type":  "font",
+        "file":  "runtime\\ui\\fonts\\stratum2_tf_bold.otf"
+    },
+    {
+        "url":  "/ui/cs2_scoreboard.css",
+        "status":  200,
+        "type":  "stylesheet",
+        "file":  "runtime\\ui\\cs2_scoreboard.css"
+    },
+    {
+        "url":  "/ui/bt_helmet.svg",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\bt_helmet.svg"
+    },
+    {
+        "url":  "/ui/bt_logo_ct.svg",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\bt_logo_ct.svg"
+    },
+    {
+        "url":  "/ui/bt_logo_t.svg",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\bt_logo_t.svg"
+    },
+    {
+        "url":  "/ui/bt_mag.svg",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\bt_mag.svg"
+    },
+    {
+        "url":  "/ui/avatar_ct.png",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\avatar_ct.png"
+    },
+    {
+        "url":  "/ui/avatar_t.png",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\avatar_t.png"
+    },
+    {
+        "url":  "/ui/score-time-mask.svg",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\score-time-mask.svg"
+    },
+    {
+        "url":  "/ui/c4.svg",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\c4.svg"
+    },
+    {
+        "url":  "/src/main.js",
+        "status":  200,
+        "type":  "script",
+        "file":  "runtime\\src\\main.js"
+    },
+    {
+        "url":  "/src/three-B50Y55N1.js",
+        "status":  200,
+        "type":  "script",
+        "file":  "runtime\\src\\three-B50Y55N1.js"
+    },
+    {
+        "url":  "/src/data-BdgATJBp.js",
+        "status":  200,
+        "type":  "script",
+        "file":  "runtime\\src\\data-BdgATJBp.js"
+    },
+    {
+        "url":  "/icons/m4a1s.svg",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\icons\\m4a1s.svg"
+    },
+    {
+        "url":  "/icons/awp.svg",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\icons\\awp.svg"
+    },
+    {
+        "url":  "/icons/famas.svg",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\icons\\famas.svg"
+    },
+    {
+        "url":  "/icons/p90.svg",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\icons\\p90.svg"
+    },
+    {
+        "url":  "/icons/nova.svg",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\icons\\nova.svg"
+    },
+    {
+        "url":  "/icons/mp5sd.svg",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\icons\\mp5sd.svg"
+    },
+    {
+        "url":  "/icons/decoy.svg",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\icons\\decoy.svg"
+    },
+    {
+        "url":  "/icons/deagle.svg",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\icons\\deagle.svg"
+    },
+    {
+        "url":  "/icons/aug.svg",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\icons\\aug.svg"
+    },
+    {
+        "url":  "/icons/incend.svg",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\icons\\incend.svg"
+    },
+    {
+        "url":  "/icons/he.svg",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\icons\\he.svg"
+    },
+    {
+        "url":  "/icons/dualies.svg",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\icons\\dualies.svg"
+    },
+    {
+        "url":  "/icons/knife.svg",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\icons\\knife.svg"
+    },
+    {
+        "url":  "/icons/p250.svg",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\icons\\p250.svg"
+    },
+    {
+        "url":  "/icons/flash.svg",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\icons\\flash.svg"
+    },
+    {
+        "url":  "/icons/mp9.svg",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\icons\\mp9.svg"
+    },
+    {
+        "url":  "/icons/smoke.svg",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\icons\\smoke.svg"
+    },
+    {
+        "url":  "/icons/ssg08.svg",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\icons\\ssg08.svg"
+    },
+    {
+        "url":  "/icons/zeus.svg",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\icons\\zeus.svg"
+    },
+    {
+        "url":  "/icons/fiveseven.svg",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\icons\\fiveseven.svg"
+    },
+    {
+        "url":  "/ui/rd_dir.svg",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\rd_dir.svg"
+    },
+    {
+        "url":  "/icons/xm1014.svg",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\icons\\xm1014.svg"
+    },
+    {
+        "url":  "/textures/fx_spark.png",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\textures\\fx_spark.png"
+    },
+    {
+        "url":  "/ui/rd_cone.svg",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\rd_cone.svg"
+    },
+    {
+        "url":  "/textures/fx_bullet_tracer_seq.png",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\textures\\fx_bullet_tracer_seq.png"
+    },
+    {
+        "url":  "/icons/usps.svg",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\icons\\usps.svg"
+    },
+    {
+        "url":  "/textures/fx_bullet_tracer_tintable.png",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\textures\\fx_bullet_tracer_tintable.png"
+    },
+    {
+        "url":  "/ui/rd_enemy.png",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\rd_enemy.png"
+    },
+    {
+        "url":  "/ui/rd_offmap.svg",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\rd_offmap.svg"
+    },
+    {
+        "url":  "/ui/rd_onmap.png",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\rd_onmap.png"
+    },
+    {
+        "url":  "/ui/rd_death.svg",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\rd_death.svg"
+    },
+    {
+        "url":  "/ui/rd_c4.png",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\rd_c4.png"
+    },
+    {
+        "url":  "/ui/rd_above.png",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\rd_above.png"
+    },
+    {
+        "url":  "/ui/wpn/mp5sd.svg",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\wpn\\mp5sd.svg"
+    },
+    {
+        "url":  "/icons/ak47.svg",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\icons\\ak47.svg"
+    },
+    {
+        "url":  "/textures/scope_circle.png",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\textures\\scope_circle.png"
+    },
+    {
+        "url":  "/icons/kevlar.svg",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\icons\\kevlar.svg"
+    },
+    {
+        "url":  "/icons/bizon.svg",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\icons\\bizon.svg"
+    },
+    {
+        "url":  "/icons/knife_t.svg",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\icons\\knife_t.svg"
+    },
+    {
+        "url":  "/icons/galil.svg",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\icons\\galil.svg"
+    },
+    {
+        "url":  "/icons/m249.svg",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\icons\\m249.svg"
+    },
+    {
+        "url":  "/icons/g3sg1.svg",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\icons\\g3sg1.svg"
+    },
+    {
+        "url":  "/icons/defkit.svg",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\icons\\defkit.svg"
+    },
+    {
+        "url":  "/icons/glock.svg",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\icons\\glock.svg"
+    },
+    {
+        "url":  "/icons/kevlarhelmet.svg",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\icons\\kevlarhelmet.svg"
+    },
+    {
+        "url":  "/icons/gloves.svg",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\icons\\gloves.svg"
+    },
+    {
+        "url":  "/icons/knife_huntsman.svg",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\icons\\knife_huntsman.svg"
+    },
+    {
+        "url":  "/icons/scar20.svg",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\icons\\scar20.svg"
+    },
+    {
+        "url":  "/icons/cz75.svg",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\icons\\cz75.svg"
+    },
+    {
+        "url":  "/icons/mac10.svg",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\icons\\mac10.svg"
+    },
+    {
+        "url":  "/icons/p2000.svg",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\icons\\p2000.svg"
+    },
+    {
+        "url":  "/icons/r8.svg",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\icons\\r8.svg"
+    },
+    {
+        "url":  "/icons/sawedoff.svg",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\icons\\sawedoff.svg"
+    },
+    {
+        "url":  "/icons/mp7.svg",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\icons\\mp7.svg"
+    },
+    {
+        "url":  "/icons/sg553.svg",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\icons\\sg553.svg"
+    },
+    {
+        "url":  "/icons/tec9.svg",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\icons\\tec9.svg"
+    },
+    {
+        "url":  "/icons/knife_ct.svg",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\icons\\knife_ct.svg"
+    },
+    {
+        "url":  "/icons/knife_canis.svg",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\icons\\knife_canis.svg"
+    },
+    {
+        "url":  "/icons/knife_cord.svg",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\icons\\knife_cord.svg"
+    },
+    {
+        "url":  "/icons/knife_css.svg",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\icons\\knife_css.svg"
+    },
+    {
+        "url":  "/icons/knife_falchion.svg",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\icons\\knife_falchion.svg"
+    },
+    {
+        "url":  "/icons/knife_gut.svg",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\icons\\knife_gut.svg"
+    },
+    {
+        "url":  "/icons/knife_karambit.svg",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\icons\\knife_karambit.svg"
+    },
+    {
+        "url":  "/icons/knife_kukri.svg",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\icons\\knife_kukri.svg"
+    },
+    {
+        "url":  "/icons/knife_m9.svg",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\icons\\knife_m9.svg"
+    },
+    {
+        "url":  "/icons/knife_push.svg",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\icons\\knife_push.svg"
+    },
+    {
+        "url":  "/icons/knife_skeleton.svg",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\icons\\knife_skeleton.svg"
+    },
+    {
+        "url":  "/icons/knife_ursus.svg",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\icons\\knife_ursus.svg"
+    },
+    {
+        "url":  "/icons/mod_headshot.svg",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\icons\\mod_headshot.svg"
+    },
+    {
+        "url":  "/icons/mod_noscope.svg",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\icons\\mod_noscope.svg"
+    },
+    {
+        "url":  "/icons/mod_air.svg",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\icons\\mod_air.svg"
+    },
+    {
+        "url":  "/icons/mod_blind.svg",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\icons\\mod_blind.svg"
+    },
+    {
+        "url":  "/icons/mod_suicide.svg",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\icons\\mod_suicide.svg"
+    },
+    {
+        "url":  "/icons/mod_domination.svg",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\icons\\mod_domination.svg"
+    },
+    {
+        "url":  "/icons/mod_revenge.svg",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\icons\\mod_revenge.svg"
+    },
+    {
+        "url":  "/split.json",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\split.json"
+    },
+    {
+        "url":  "/icons/mod_penetrate.svg",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\icons\\mod_penetrate.svg"
+    },
+    {
+        "url":  "/icons/knife_navaja.svg",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\icons\\knife_navaja.svg"
+    },
+    {
+        "url":  "/icons/molotov.svg",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\icons\\molotov.svg"
+    },
+    {
+        "url":  "/icons/mod_smokekill.svg",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\icons\\mod_smokekill.svg"
+    },
+    {
+        "url":  "/icons/knife_flip.svg",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\icons\\knife_flip.svg"
+    },
+    {
+        "url":  "/icons/knife_nomad.svg",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\icons\\knife_nomad.svg"
+    },
+    {
+        "url":  "/icons/mag7.svg",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\icons\\mag7.svg"
+    },
+    {
+        "url":  "/icons/knife_bowie.svg",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\icons\\knife_bowie.svg"
+    },
+    {
+        "url":  "/icons/negev.svg",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\icons\\negev.svg"
+    },
+    {
+        "url":  "/icons/knife_talon.svg",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\icons\\knife_talon.svg"
+    },
+    {
+        "url":  "/icons/ump45.svg",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\icons\\ump45.svg"
+    },
+    {
+        "url":  "/icons/knife_butterfly.svg",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\icons\\knife_butterfly.svg"
+    },
+    {
+        "url":  "/icons/c4.svg",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\icons\\c4.svg"
+    },
+    {
+        "url":  "/ui/rd_zone_a.png",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\rd_zone_a.png"
+    },
+    {
+        "url":  "/ui/rd_zone_b.png",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\rd_zone_b.png"
+    },
+    {
+        "url":  "/ui/rd_below.png",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\rd_below.png"
+    },
+    {
+        "url":  "/ui/bt_heavy.svg",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\bt_heavy.svg"
+    },
+    {
+        "url":  "/ui/bt_mag_banana.svg",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\bt_mag_banana.svg"
+    },
+    {
+        "url":  "/ui/bt_mag_shell.svg",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\bt_mag_shell.svg"
+    },
+    {
+        "url":  "/ui/bt_mag_box.svg",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\bt_mag_box.svg"
+    },
+    {
+        "url":  "/ui/bt_mag_revolver.svg",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\bt_mag_revolver.svg"
+    },
+    {
+        "url":  "/ui/bt_mag_bizon.svg",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\bt_mag_bizon.svg"
+    },
+    {
+        "url":  "/ui/bt_mag_p90.svg",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\bt_mag_p90.svg"
+    },
+    {
+        "url":  "/ui/wpn/glock.svg",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\wpn\\glock.svg"
+    },
+    {
+        "url":  "/ui/wpn/usps.svg",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\wpn\\usps.svg"
+    },
+    {
+        "url":  "/ui/wpn/p2000.svg",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\wpn\\p2000.svg"
+    },
+    {
+        "url":  "/ui/wpn/dualies.svg",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\wpn\\dualies.svg"
+    },
+    {
+        "url":  "/ui/wpn/fiveseven.svg",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\wpn\\fiveseven.svg"
+    },
+    {
+        "url":  "/ui/wpn/deagle.svg",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\wpn\\deagle.svg"
+    },
+    {
+        "url":  "/ui/wpn/r8.svg",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\wpn\\r8.svg"
+    },
+    {
+        "url":  "/ui/wpn/mac10.svg",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\wpn\\mac10.svg"
+    },
+    {
+        "url":  "/ui/wpn/ump45.svg",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\wpn\\ump45.svg"
+    },
+    {
+        "url":  "/ui/wpn/xm1014.svg",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\wpn\\xm1014.svg"
+    },
+    {
+        "url":  "/ui/wpn/famas.svg",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\wpn\\famas.svg"
+    },
+    {
+        "url":  "/ui/wpn/ak47.svg",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\wpn\\ak47.svg"
+    },
+    {
+        "url":  "/ui/wpn/m4a4.svg",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\wpn\\m4a4.svg"
+    },
+    {
+        "url":  "/ui/wpn/m4a1s.svg",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\wpn\\m4a1s.svg"
+    },
+    {
+        "url":  "/ui/wpn/aug.svg",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\wpn\\aug.svg"
+    },
+    {
+        "url":  "/ui/wpn/decoy.svg",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\wpn\\decoy.svg"
+    },
+    {
+        "url":  "/ui/wpn/c4.svg",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\wpn\\c4.svg"
+    },
+    {
+        "url":  "/ui/wpn/m249.svg",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\wpn\\m249.svg"
+    },
+    {
+        "url":  "/ui/wpn/sg553.svg",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\wpn\\sg553.svg"
+    },
+    {
+        "url":  "/ui/wpn/g3sg1.svg",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\wpn\\g3sg1.svg"
+    },
+    {
+        "url":  "/ui/rd_bomb_planted.svg",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\rd_bomb_planted.svg"
+    },
+    {
+        "url":  "/ui/wpn/p250.svg",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\wpn\\p250.svg"
+    },
+    {
+        "url":  "/ui/wpn/mp7.svg",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\wpn\\mp7.svg"
+    },
+    {
+        "url":  "/ui/wpn/cz75.svg",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\wpn\\cz75.svg"
+    },
+    {
+        "url":  "/ui/wpn/sawedoff.svg",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\wpn\\sawedoff.svg"
+    },
+    {
+        "url":  "/ui/wpn/nova.svg",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\wpn\\nova.svg"
+    },
+    {
+        "url":  "/ui/wpn/mag7.svg",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\wpn\\mag7.svg"
+    },
+    {
+        "url":  "/ui/wpn/bizon.svg",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\wpn\\bizon.svg"
+    },
+    {
+        "url":  "/ui/wpn/p90.svg",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\wpn\\p90.svg"
+    },
+    {
+        "url":  "/ui/wpn/awp.svg",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\wpn\\awp.svg"
+    },
+    {
+        "url":  "/ui/wpn/zeus.svg",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\wpn\\zeus.svg"
+    },
+    {
+        "url":  "/ui/wpn/mp9.svg",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\wpn\\mp9.svg"
+    },
+    {
+        "url":  "/ui/wpn/galil.svg",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\wpn\\galil.svg"
+    },
+    {
+        "url":  "/ui/wpn/flash.svg",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\wpn\\flash.svg"
+    },
+    {
+        "url":  "/ui/wpn/incend.svg",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\wpn\\incend.svg"
+    },
+    {
+        "url":  "/ui/wpn/ssg08.svg",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\wpn\\ssg08.svg"
+    },
+    {
+        "url":  "/ui/wpn/knife.svg",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\wpn\\knife.svg"
+    },
+    {
+        "url":  "/ui/wpn/molotov.svg",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\wpn\\molotov.svg"
+    },
+    {
+        "url":  "/ui/rd_kit_dropped.png",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\rd_kit_dropped.png"
+    },
+    {
+        "url":  "/ui/wpn/smoke.svg",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\wpn\\smoke.svg"
+    },
+    {
+        "url":  "/ui/cases/crate_esports_2013.webp",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\cases\\crate_esports_2013.webp"
+    },
+    {
+        "url":  "/ui/cases/crate_operation_ii.webp",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\cases\\crate_operation_ii.webp"
+    },
+    {
+        "url":  "/ui/cases/crate_esports_2014_summer.webp",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\cases\\crate_esports_2014_summer.webp"
+    },
+    {
+        "url":  "/ui/cases/crate_esports_2013_14.webp",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\cases\\crate_esports_2013_14.webp"
+    },
+    {
+        "url":  "/ui/wpn/tec9.svg",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\wpn\\tec9.svg"
+    },
+    {
+        "url":  "/ui/cases/crate_valve_3.webp",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\cases\\crate_valve_3.webp"
+    },
+    {
+        "url":  "/ui/wpn/negev.svg",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\wpn\\negev.svg"
+    },
+    {
+        "url":  "/ui/cases/crate_valve_2.webp",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\cases\\crate_valve_2.webp"
+    },
+    {
+        "url":  "/ui/cases/crate_community_3.webp",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\cases\\crate_community_3.webp"
+    },
+    {
+        "url":  "/ui/cases/crate_community_4.webp",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\cases\\crate_community_4.webp"
+    },
+    {
+        "url":  "/ui/cases/crate_community_5.webp",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\cases\\crate_community_5.webp"
+    },
+    {
+        "url":  "/ui/cases/crate_community_21.webp",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\cases\\crate_community_21.webp"
+    },
+    {
+        "url":  "/ui/cases/crate_community_7.webp",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\cases\\crate_community_7.webp"
+    },
+    {
+        "url":  "/icons/knife_bayonet.svg",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\icons\\knife_bayonet.svg"
+    },
+    {
+        "url":  "/icons/m4a4.svg",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\icons\\m4a4.svg"
+    },
+    {
+        "url":  "/ui/cases/crate_community_2.webp",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\cases\\crate_community_2.webp"
+    },
+    {
+        "url":  "/ui/cases/crate_valve_1.webp",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\cases\\crate_valve_1.webp"
+    },
+    {
+        "url":  "/ui/cases/crate_community_1.webp",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\cases\\crate_community_1.webp"
+    },
+    {
+        "url":  "/ui/cases/crate_community_9.webp",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\cases\\crate_community_9.webp"
+    },
+    {
+        "url":  "/ui/cases/crate_community_11.webp",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\cases\\crate_community_11.webp"
+    },
+    {
+        "url":  "/ui/cases/crate_community_13.webp",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\cases\\crate_community_13.webp"
+    },
+    {
+        "url":  "/ui/cases/crate_community_26.webp",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\cases\\crate_community_26.webp"
+    },
+    {
+        "url":  "/ui/cases/crate_community_6.webp",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\cases\\crate_community_6.webp"
+    },
+    {
+        "url":  "/ui/cases/crate_community_15.webp",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\cases\\crate_community_15.webp"
+    },
+    {
+        "url":  "/z/models/oasis_phys.bin?v=7f382be8e0",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\oasis_phys.bin__P3Y9N2YzODJiZThlMA"
+    },
+    {
+        "url":  "/ui/cases/crate_community_8.webp",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\cases\\crate_community_8.webp"
+    },
+    {
+        "url":  "/ui/cases/crate_community_10.webp",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\cases\\crate_community_10.webp"
+    },
+    {
+        "url":  "/ui/cases/crate_community_16.webp",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\cases\\crate_community_16.webp"
+    },
+    {
+        "url":  "/ui/cases/crate_community_28.webp",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\cases\\crate_community_28.webp"
+    },
+    {
+        "url":  "/ui/cases/crate_community_25.webp",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\cases\\crate_community_25.webp"
+    },
+    {
+        "url":  "/ui/cases/crate_community_22.webp",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\cases\\crate_community_22.webp"
+    },
+    {
+        "url":  "/ui/wpn/he.svg",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\wpn\\he.svg"
+    },
+    {
+        "url":  "/ui/cases/crate_community_12.webp",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\cases\\crate_community_12.webp"
+    },
+    {
+        "url":  "/ui/cases/crate_gamma_2.webp",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\cases\\crate_gamma_2.webp"
+    },
+    {
+        "url":  "/ui/cases/crate_community_19.webp",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\cases\\crate_community_19.webp"
+    },
+    {
+        "url":  "/ui/cases/crate_community_20.webp",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\cases\\crate_community_20.webp"
+    },
+    {
+        "url":  "/ui/cases/crate_community_23.webp",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\cases\\crate_community_23.webp"
+    },
+    {
+        "url":  "/ui/cases/crate_community_17.webp",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\cases\\crate_community_17.webp"
+    },
+    {
+        "url":  "/ui/cases/crate_community_18.webp",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\cases\\crate_community_18.webp"
+    },
+    {
+        "url":  "/ui/cases/crate_community_34.webp",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\cases\\crate_community_34.webp"
+    },
+    {
+        "url":  "/ui/cases/crate_community_35.webp",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\cases\\crate_community_35.webp"
+    },
+    {
+        "url":  "/ui/cases/crate_community_30.webp",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\cases\\crate_community_30.webp"
+    },
+    {
+        "url":  "/ui/cases/crate_community_32.webp",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\cases\\crate_community_32.webp"
+    },
+    {
+        "url":  "/ui/cases/crate_community_27.webp",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\cases\\crate_community_27.webp"
+    },
+    {
+        "url":  "/ui/cases/crate_community_24.webp",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\cases\\crate_community_24.webp"
+    },
+    {
+        "url":  "/ui/cases/crate_community_33.webp",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\cases\\crate_community_33.webp"
+    },
+    {
+        "url":  "/ui/cases/crate_community_31.webp",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\cases\\crate_community_31.webp"
+    },
+    {
+        "url":  "/ui/cases/crate_community_29.webp",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\cases\\crate_community_29.webp"
+    },
+    {
+        "url":  "/ui/wpn/scar20.svg",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\wpn\\scar20.svg"
+    },
+    {
+        "url":  "/models/oasis_data.json?v=663813b4cb",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\_external\\assets.clutcher.io\\models\\oasis_data.json__P3Y9NjYzODEzYjRjYg"
+    },
+    {
+        "url":  "/z/models/oasis_entities.json?v=7b729b504a",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\oasis_entities.json__P3Y9N2I3MjliNTA0YQ"
+    },
+    {
+        "url":  "/textures/fx_particle_ring_wave_8.png",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\textures\\fx_particle_ring_wave_8.png"
+    },
+    {
+        "url":  "/ui/cases/cs2_bg_gray.webp",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\cases\\cs2_bg_gray.webp"
+    },
+    {
+        "url":  "/icons/knife_stiletto.svg",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\icons\\knife_stiletto.svg"
+    },
+    {
+        "url":  "/textures/fx_beam_energy_01.png",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\textures\\fx_beam_energy_01.png"
+    },
+    {
+        "url":  "/z/models/cs2/cs2_locomotion_rifle.glb?v=36fb163337",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\cs2_locomotion_rifle.glb__P3Y9MzZmYjE2MzMzNw"
+    },
+    {
+        "url":  "/ui/radar_de_mirage.png",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\ui\\radar_de_mirage.png"
+    },
+    {
+        "url":  "/models/sky_mirage.jpg?v=5912545733",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\_external\\assets.clutcher.io\\models\\sky_mirage.jpg__P3Y9NTkxMjU0NTczMw"
+    },
+    {
+        "url":  "/textures/fx_smokeloop_i_0_sc.png",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\textures\\fx_smokeloop_i_0_sc.png"
+    },
+    {
+        "url":  "/textures/fx_smokeloop_i_0_sc_hardedge.png",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\textures\\fx_smokeloop_i_0_sc_hardedge.png"
+    },
+    {
+        "url":  "/textures/fx_wispy_steam_set.png",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\textures\\fx_wispy_steam_set.png"
+    },
+    {
+        "url":  "/models/oasis_shadows.png?v=350c3742d2",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\_external\\assets.clutcher.io\\models\\oasis_shadows.png__P3Y9MzUwYzM3NDJkMg"
+    },
+    {
+        "url":  "/textures/fx_fire_small_sim_b.png",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\textures\\fx_fire_small_sim_b.png"
+    },
+    {
+        "url":  "/textures/fx_wispy_steam_burst_b.png",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\textures\\fx_wispy_steam_burst_b.png"
+    },
+    {
+        "url":  "/textures/fx_fire_gas_batch_b.png",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\textures\\fx_fire_gas_batch_b.png"
+    },
+    {
+        "url":  "/textures/fx_fire_gas_batch_b_top.png",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\textures\\fx_fire_gas_batch_b_top.png"
+    },
+    {
+        "url":  "/cdn-cgi/rum?",
+        "status":  204,
+        "type":  "xhr",
+        "file":  "runtime\\cdn-cgi\\rum"
+    },
+    {
+        "url":  "/favicon.svg",
+        "status":  200,
+        "type":  "other",
+        "file":  "runtime\\favicon.svg"
+    },
+    {
+        "url":  "/z/models/cs2/vm/zeus.glb?v=c341490c25",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\vm\\zeus.glb__P3Y9YzM0MTQ5MGMyNQ"
+    },
+    {
+        "url":  "/z/models/cs2/vm/knife_ct.glb?v=48c7fdbe1b",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\vm\\knife_ct.glb__P3Y9NDhjN2ZkYmUxYg"
+    },
+    {
+        "url":  "/z/models/cs2/vm/knife_t.glb?v=3e57260b64",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\vm\\knife_t.glb__P3Y9M2U1NzI2MGI2NA"
+    },
+    {
+        "url":  "/z/models/cs2/vm/p250.glb?v=b135d2ba2e",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\vm\\p250.glb__P3Y9YjEzNWQyYmEyZQ"
+    },
+    {
+        "url":  "/z/models/cs2/ctm_sas.glb?v=8f3ef8148c",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\ctm_sas.glb__P3Y9OGYzZWY4MTQ4Yw"
+    },
+    {
+        "url":  "/z/models/cs2/vm/usps.glb?v=bf9d57fc03",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\vm\\usps.glb__P3Y9YmY5ZDU3ZmMwMw"
+    },
+    {
+        "url":  "/z/models/cs2/vm/dualies.glb?v=4e8e45fe73",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\vm\\dualies.glb__P3Y9NGU4ZTQ1ZmU3Mw"
+    },
+    {
+        "url":  "/z/models/cs2/weapon_knife_ct.glb?v=a11c87867b",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\weapon_knife_ct.glb__P3Y9YTExYzg3ODY3Yg"
+    },
+    {
+        "url":  "/z/models/cs2/vm/fiveseven.glb?v=45cdeb0989",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\vm\\fiveseven.glb__P3Y9NDVjZGViMDk4OQ"
+    },
+    {
+        "url":  "/z/models/cs2/weapon_knife_t.glb?v=a2ee44e9c8",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\weapon_knife_t.glb__P3Y9YTJlZTQ0ZTljOA"
+    },
+    {
+        "url":  "/z/models/cs2/vm/xm1014.glb?v=e88d883a1c",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\vm\\xm1014.glb__P3Y9ZTg4ZDg4M2ExYw"
+    },
+    {
+        "url":  "/z/models/cs2/vm/deagle.glb?v=149f62afc9",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\vm\\deagle.glb__P3Y9MTQ5ZjYyYWZjOQ"
+    },
+    {
+        "url":  "/z/models/cs2/vm/nova.glb?v=997fdbdf48",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\vm\\nova.glb__P3Y9OTk3ZmRiZGY0OA"
+    },
+    {
+        "url":  "/z/models/cs2/vm/mp5sd.glb?v=9bec31c3a2",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\vm\\mp5sd.glb__P3Y9OWJlYzMxYzNhMg"
+    },
+    {
+        "url":  "/z/models/cs2/vm/p90.glb?v=b55e87b125",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\vm\\p90.glb__P3Y9YjU1ZTg3YjEyNQ"
+    },
+    {
+        "url":  "/z/models/cs2/weapon_pist_taser.glb?v=b5c5c602e1",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\weapon_pist_taser.glb__P3Y9YjVjNWM2MDJlMQ"
+    },
+    {
+        "url":  "/z/models/cs2/vm/mp9.glb?v=506cee4897",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\vm\\mp9.glb__P3Y9NTA2Y2VlNDg5Nw"
+    },
+    {
+        "url":  "/z/models/cs2/vm/famas.glb?v=3621ca211a",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\vm\\famas.glb__P3Y9MzYyMWNhMjExYQ"
+    },
+    {
+        "url":  "/vendor/addons/libs/draco/draco_decoder.js",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\vendor\\addons\\libs\\draco\\draco_decoder.js"
+    },
+    {
+        "url":  "/z/models/cs2/vm/ssg08.glb?v=592a0cee05",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\vm\\ssg08.glb__P3Y9NTkyYTBjZWUwNQ"
+    },
+    {
+        "url":  "/z/models/cs2/vm/aug.glb?v=6cc8f36e49",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\vm\\aug.glb__P3Y9NmNjOGYzNmU0OQ"
+    },
+    {
+        "url":  "/z/models/cs2/vm/awp.glb?v=4bd12a9fd0",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\vm\\awp.glb__P3Y9NGJkMTJhOWZkMA"
+    },
+    {
+        "url":  "/z/models/cs2/vm/flash.glb?v=aff2e198e1",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\vm\\flash.glb__P3Y9YWZmMmUxOThlMQ"
+    },
+    {
+        "url":  "/models/oasis_props.glb?v=e54feef8ae",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\_external\\assets.clutcher.io\\models\\oasis_props.glb__P3Y9ZTU0ZmVlZjhhZQ"
+    },
+    {
+        "url":  "/z/models/cs2/vm/m4a1s.glb?v=f2a40db688",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\vm\\m4a1s.glb__P3Y9ZjJhNDBkYjY4OA"
+    },
+    {
+        "url":  "/z/models/cs2/vm/smoke.glb?v=27fd7b1a24",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\vm\\smoke.glb__P3Y9MjdmZDdiMWEyNA"
+    },
+    {
+        "url":  "/z/models/cs2/vm/he.glb?v=9b19a2e396",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\vm\\he.glb__P3Y9OWIxOWEyZTM5Ng"
+    },
+    {
+        "url":  "/z/models/cs2/vm/incend.glb?v=6f2afc7e37",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\vm\\incend.glb__P3Y9NmYyYWZjN2UzNw"
+    },
+    {
+        "url":  "/z/models/cs2/glove_fullfinger.glb?v=0d8320492b",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\glove_fullfinger.glb__P3Y9MGQ4MzIwNDkyYg"
+    },
+    {
+        "url":  "/z/models/cs2/weapon_pist_p250.glb?v=1bee9f9021",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\weapon_pist_p250.glb__P3Y9MWJlZTlmOTAyMQ"
+    },
+    {
+        "url":  "/z/models/cs2/weapon_pist_usp_silencer.glb?v=b874e42449",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\weapon_pist_usp_silencer.glb__P3Y9Yjg3NGU0MjQ0OQ"
+    },
+    {
+        "url":  "/z/models/cs2/vm/decoy.glb?v=f042a57967",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\vm\\decoy.glb__P3Y9ZjA0MmE1Nzk2Nw"
+    },
+    {
+        "url":  "/z/models/cs2/vm/tec9.glb?v=f006ec9d61",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\vm\\tec9.glb__P3Y9ZjAwNmVjOWQ2MQ"
+    },
+    {
+        "url":  "/z/models/cs2/vm/mac10.glb?v=bb9f97e063",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\vm\\mac10.glb__P3Y9YmI5Zjk3ZTA2Mw"
+    },
+    {
+        "url":  "/z/models/cs2/weapon_pist_fiveseven.glb?v=f2804068b2",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\weapon_pist_fiveseven.glb__P3Y9ZjI4MDQwNjhiMg"
+    },
+    {
+        "url":  "/z/models/cs2/vm/glock.glb?v=428488752e",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\vm\\glock.glb__P3Y9NDI4NDg4NzUyZQ"
+    },
+    {
+        "url":  "/z/models/cs2/weapon_gren_smoke.glb?v=0b19168864",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\weapon_gren_smoke.glb__P3Y9MGIxOTE2ODg2NA"
+    },
+    {
+        "url":  "/z/models/cs2/weapon_pist_elite.glb?v=5743581a8c",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\weapon_pist_elite.glb__P3Y9NTc0MzU4MWE4Yw"
+    },
+    {
+        "url":  "/z/models/cs2/weapon_shot_xm1014.glb?v=03acb2c22f",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\weapon_shot_xm1014.glb__P3Y9MDNhY2IyYzIyZg"
+    },
+    {
+        "url":  "/z/models/cs2/weapon_pist_deagle.glb?v=ae60593376",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\weapon_pist_deagle.glb__P3Y9YWU2MDU5MzM3Ng"
+    },
+    {
+        "url":  "/z/models/cs2/weapon_shot_nova.glb?v=002f482b1d",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\weapon_shot_nova.glb__P3Y9MDAyZjQ4MmIxZA"
+    },
+    {
+        "url":  "/z/models/cs2/vm/galil.glb?v=5a910b59e8",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\vm\\galil.glb__P3Y9NWE5MTBiNTllOA"
+    },
+    {
+        "url":  "/z/models/cs2/vm/sg553.glb?v=d7b5ea98c8",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\vm\\sg553.glb__P3Y9ZDdiNWVhOThjOA"
+    },
+    {
+        "url":  "/z/models/cs2/vm/molotov.glb?v=275b295d3d",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\vm\\molotov.glb__P3Y9Mjc1YjI5NWQzZA"
+    },
+    {
+        "url":  "/z/models/cs2/weapon_smg_mp9.glb?v=1b099c07c0",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\weapon_smg_mp9.glb__P3Y9MWIwOTljMDdjMA"
+    },
+    {
+        "url":  "/z/models/cs2/weapon_gren_flash.glb?v=487122729e",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\weapon_gren_flash.glb__P3Y9NDg3MTIyNzI5ZQ"
+    },
+    {
+        "url":  "/z/models/cs2/weapon_gren_he.glb?v=6dd168b041",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\weapon_gren_he.glb__P3Y9NmRkMTY4YjA0MQ"
+    },
+    {
+        "url":  "/z/models/cs2/weapon_smg_mp5sd.glb?v=ef22ee5ea5",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\weapon_smg_mp5sd.glb__P3Y9ZWYyMmVlNWVhNQ"
+    },
+    {
+        "url":  "/z/models/cs2/weapon_gren_incend.glb?v=b0ed627618",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\weapon_gren_incend.glb__P3Y9YjBlZDYyNzYxOA"
+    },
+    {
+        "url":  "/z/models/cs2/weapon_gren_decoy.glb?v=a40a536295",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\weapon_gren_decoy.glb__P3Y9YTQwYTUzNjI5NQ"
+    },
+    {
+        "url":  "/z/models/cs2/weapon_smg_p90.glb?v=eea836ebae",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\weapon_smg_p90.glb__P3Y9ZWVhODM2ZWJhZQ"
+    },
+    {
+        "url":  "/z/models/cs2/vm/ak47.glb?v=1c2e6a5ba5",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\vm\\ak47.glb__P3Y9MWMyZTZhNWJhNQ"
+    },
+    {
+        "url":  "/z/models/cs2/cs2_carry.glb?v=97809bd695",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\cs2_carry.glb__P3Y9OTc4MDliZDY5NQ"
+    },
+    {
+        "url":  "/z/models/cs2/weapon_rif_m4a1_silencer.glb?v=dfd2cee609",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\weapon_rif_m4a1_silencer.glb__P3Y9ZGZkMmNlZTYwOQ"
+    },
+    {
+        "url":  "/z/models/cs2/weapon_rif_famas.glb?v=9d4a215b89",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\weapon_rif_famas.glb__P3Y9OWQ0YTIxNWI4OQ"
+    },
+    {
+        "url":  "/z/models/cs2/weapon_snip_awp.glb?v=370642f242",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\weapon_snip_awp.glb__P3Y9MzcwNjQyZjI0Mg"
+    },
+    {
+        "url":  "/z/models/cs2/weapon_snip_ssg08.glb?v=a941a21d7e",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\weapon_snip_ssg08.glb__P3Y9YTk0MWEyMWQ3ZQ"
+    },
+    {
+        "url":  "/z/models/cs2/weapon_rif_aug.glb?v=0f9985bfed",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\weapon_rif_aug.glb__P3Y9MGY5OTg1YmZlZA"
+    },
+    {
+        "url":  "/z/models/cs2/weapon_pist_tec9.glb?v=0019619b19",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\weapon_pist_tec9.glb__P3Y9MDAxOTYxOWIxOQ"
+    },
+    {
+        "url":  "/z/models/cs2/weapon_smg_mac10.glb?v=0baded268b",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\weapon_smg_mac10.glb__P3Y9MGJhZGVkMjY4Yg"
+    },
+    {
+        "url":  "/z/models/cs2/weapon_pist_glock18.glb?v=8c33918cc7",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\weapon_pist_glock18.glb__P3Y9OGMzMzkxOGNjNw"
+    },
+    {
+        "url":  "/z/models/cs2/weapon_gren_molotov.glb?v=1ccbbb20ba",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\weapon_gren_molotov.glb__P3Y9MWNjYmJiMjBiYQ"
+    },
+    {
+        "url":  "/z/models/cs2/weapon_rif_galilar.glb?v=ee4b33ecea",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\weapon_rif_galilar.glb__P3Y9ZWU0YjMzZWNlYQ"
+    },
+    {
+        "url":  "/z/models/cs2/weapon_rif_ak47.glb?v=713627ef2e",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\weapon_rif_ak47.glb__P3Y9NzEzNjI3ZWYyZQ"
+    },
+    {
+        "url":  "/z/models/cs2/weapon_rif_sg556.glb?v=11f99f36af",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\weapon_rif_sg556.glb__P3Y9MTFmOTlmMzZhZg"
+    },
+    {
+        "url":  "/z/models/cs2/cs2_actions.glb?v=f8cc1ac339",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\cs2_actions.glb__P3Y9ZjhjYzFhYzMzOQ"
+    },
+    {
+        "url":  "/z/models/cs2/weapon_rif_m4a4.glb?v=28889e2ea4",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\weapon_rif_m4a4.glb__P3Y9Mjg4ODllMmVhNA"
+    },
+    {
+        "url":  "/models/oasis.glb?v=c821d0d2ae",
+        "status":  200,
+        "type":  "fetch",
+        "error":  "Error: response.body: Protocol error (Network.getResponseBody): Request content was evicted from inspector cache\nResponse body is not available for a response that was navigated away from. Read response.body() before triggering any navigation."
+    },
+    {
+        "url":  "/models/cs2/shells/glock_casing.glb?v=c508200229",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\_external\\assets.clutcher.io\\models\\cs2\\shells\\glock_casing.glb__P3Y9YzUwODIwMDIyOQ"
+    },
+    {
+        "url":  "/z/models/cs2/shells/p90_casing.glb?v=fc31a5e38b",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\shells\\p90_casing.glb__P3Y9ZmMzMWE1ZTM4Yg"
+    },
+    {
+        "url":  "/models/cs2/shells/deagle_casing.glb?v=690202de25",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\_external\\assets.clutcher.io\\models\\cs2\\shells\\deagle_casing.glb__P3Y9NjkwMjAyZGUyNQ"
+    },
+    {
+        "url":  "/z/models/cs2/shells/awp_casing.glb?v=8ec127b42a",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\shells\\awp_casing.glb__P3Y9OGVjMTI3YjQyYQ"
+    },
+    {
+        "url":  "/ui/paints/paints.json",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\ui\\paints\\paints.json"
+    },
+    {
+        "url":  "/z/models/cs2/shells/ak47_casing.glb?v=49fdb13a5a",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\shells\\ak47_casing.glb__P3Y9NDlmZGIxM2E1YQ"
+    },
+    {
+        "url":  "/z/models/cs2/shells/xm1014_casing.glb?v=cf0b0123d1",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\shells\\xm1014_casing.glb__P3Y9Y2YwYjAxMjNkMQ"
+    },
+    {
+        "url":  "/z/models/cs2/shells/mag7_casing.glb?v=e039b37f01",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\shells\\mag7_casing.glb__P3Y9ZTAzOWIzN2YwMQ"
+    },
+    {
+        "url":  "/textures/fx_c4_lens.webp",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\textures\\fx_c4_lens.webp"
+    },
+    {
+        "url":  "/textures/fx_c4_sparks.webp",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\textures\\fx_c4_sparks.webp"
+    },
+    {
+        "url":  "/textures/fx_c4_glow.webp",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\textures\\fx_c4_glow.webp"
+    },
+    {
+        "url":  "/textures/fx_tracer.png",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\textures\\fx_tracer.png"
+    },
+    {
+        "url":  "/textures/fx_c4_flame.webp",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\textures\\fx_c4_flame.webp"
+    },
+    {
+        "url":  "/textures/fx_c4_noise.webp",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\textures\\fx_c4_noise.webp"
+    },
+    {
+        "url":  "/textures/fx_c4_flare.webp",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\textures\\fx_c4_flare.webp"
+    },
+    {
+        "url":  "/textures/fx_c4_fleks.webp",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\textures\\fx_c4_fleks.webp"
+    },
+    {
+        "url":  "/textures/fx_particle_glow_05.png",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\textures\\fx_particle_glow_05.png"
+    },
+    {
+        "url":  "/textures/fx_c4_scorch.webp",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\textures\\fx_c4_scorch.webp"
+    },
+    {
+        "url":  "/textures/fx_c4_trail.webp",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\textures\\fx_c4_trail.webp"
+    },
+    {
+        "url":  "/textures/fx_c4_steam.webp",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\textures\\fx_c4_steam.webp"
+    },
+    {
+        "url":  "/textures/fx_c4_warp.webp",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\textures\\fx_c4_warp.webp"
+    },
+    {
+        "url":  "/textures/fx_beam_flame.png",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\textures\\fx_beam_flame.png"
+    },
+    {
+        "url":  "/textures/fx_beam_crack_02.png",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\textures\\fx_beam_crack_02.png"
+    },
+    {
+        "url":  "/models/cs2/shells/glock_orm.png?v=58f14e7707",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\_external\\assets.clutcher.io\\models\\cs2\\shells\\glock_orm.png__P3Y9NThmMTRlNzcwNw"
+    },
+    {
+        "url":  "/z/models/cs2/tm_phoenix.glb?v=4281b49e9d",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\tm_phoenix.glb__P3Y9NDI4MWI0OWU5ZA"
+    },
+    {
+        "url":  "/models/cs2/shells/ak47_normal.png?v=c7e4e1c112",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\_external\\assets.clutcher.io\\models\\cs2\\shells\\ak47_normal.png__P3Y9YzdlNGUxYzExMg"
+    },
+    {
+        "url":  "/models/cs2/shells/ak47_color.png?v=f5ace29393",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\_external\\assets.clutcher.io\\models\\cs2\\shells\\ak47_color.png__P3Y9ZjVhY2UyOTM5Mw"
+    },
+    {
+        "url":  "/models/cs2/shells/glock_normal.png?v=7dc1073787",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\_external\\assets.clutcher.io\\models\\cs2\\shells\\glock_normal.png__P3Y9N2RjMTA3Mzc4Nw"
+    },
+    {
+        "url":  "/models/cs2/shells/ak47_orm.png?v=b31a764189",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\_external\\assets.clutcher.io\\models\\cs2\\shells\\ak47_orm.png__P3Y9YjMxYTc2NDE4OQ"
+    },
+    {
+        "url":  "/models/cs2/shells/glock_color.png?v=2045bf0372",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\_external\\assets.clutcher.io\\models\\cs2\\shells\\glock_color.png__P3Y9MjA0NWJmMDM3Mg"
+    },
+    {
+        "url":  "/models/cs2/shells/deagle_normal.png?v=52436ef36e",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\_external\\assets.clutcher.io\\models\\cs2\\shells\\deagle_normal.png__P3Y9NTI0MzZlZjM2ZQ"
+    },
+    {
+        "url":  "/models/cs2/shells/deagle_orm.png?v=411cd29645",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\_external\\assets.clutcher.io\\models\\cs2\\shells\\deagle_orm.png__P3Y9NDExY2QyOTY0NQ"
+    },
+    {
+        "url":  "/models/cs2/shells/deagle_color.png?v=0b783d03f6",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\_external\\assets.clutcher.io\\models\\cs2\\shells\\deagle_color.png__P3Y9MGI3ODNkMDNmNg"
+    },
+    {
+        "url":  "/textures/fx_crack_growth_01.png",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\textures\\fx_crack_growth_01.png"
+    },
+    {
+        "url":  "/models/cs2/shells/awp_color.png?v=5e1d492a26",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\_external\\assets.clutcher.io\\models\\cs2\\shells\\awp_color.png__P3Y9NWUxZDQ5MmEyNg"
+    },
+    {
+        "url":  "/models/cs2/shells/xm1014_normal.png?v=4c5f7381ed",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\_external\\assets.clutcher.io\\models\\cs2\\shells\\xm1014_normal.png__P3Y9NGM1ZjczODFlZA"
+    },
+    {
+        "url":  "/models/cs2/shells/xm1014_color.png?v=cead163e78",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\_external\\assets.clutcher.io\\models\\cs2\\shells\\xm1014_color.png__P3Y9Y2VhZDE2M2U3OA"
+    },
+    {
+        "url":  "/models/cs2/shells/awp_orm.png?v=45a1222da4",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\_external\\assets.clutcher.io\\models\\cs2\\shells\\awp_orm.png__P3Y9NDVhMTIyMmRhNA"
+    },
+    {
+        "url":  "/models/cs2/shells/mag7_color.png?v=2e4170645f",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\_external\\assets.clutcher.io\\models\\cs2\\shells\\mag7_color.png__P3Y9MmU0MTcwNjQ1Zg"
+    },
+    {
+        "url":  "/models/cs2/shells/xm1014_orm.png?v=496dfbd907",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\_external\\assets.clutcher.io\\models\\cs2\\shells\\xm1014_orm.png__P3Y9NDk2ZGZiZDkwNw"
+    },
+    {
+        "url":  "/models/cs2/shells/awp_normal.png?v=2d1168ded1",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\_external\\assets.clutcher.io\\models\\cs2\\shells\\awp_normal.png__P3Y9MmQxMTY4ZGVkMQ"
+    },
+    {
+        "url":  "/textures/fx_c4_burst.webp",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\textures\\fx_c4_burst.webp"
+    },
+    {
+        "url":  "/textures/fx_c4_ball.webp",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\textures\\fx_c4_ball.webp"
+    },
+    {
+        "url":  "/textures/fx_c4_blast.webp",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\textures\\fx_c4_blast.webp"
+    },
+    {
+        "url":  "/textures/fx_beam_crack_06_bw_center.png",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\textures\\fx_beam_crack_06_bw_center.png"
+    },
+    {
+        "url":  "/textures/fx_c4_fireball.webp",
+        "status":  200,
+        "type":  "image",
+        "file":  "runtime\\textures\\fx_c4_fireball.webp"
+    },
+    {
+        "url":  "/z/models/cs2/weapon_pist_hkp2000.glb?v=4ffcfb1759",
+        "status":  200,
+        "type":  "fetch",
+        "file":  "runtime\\_external\\assets.clutcher.io\\z\\models\\cs2\\weapon_pist_hkp2000.glb__P3Y9NGZmY2ZiMTc1OQ"
+    },
+    {
+        "url":  "/src/gloveshaders-DZ_Fdhsb.js",
+        "status":  200,
+        "type":  "script",
+        "file":  "runtime\\src\\gloveshaders-DZ_Fdhsb.js"
+    }
+]

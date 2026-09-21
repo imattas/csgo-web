@@ -1,0 +1,33 @@
+# Local development and Cloudflare state
+.wrangler/
+.dev.vars
+.env
+.env.*
+!.env.example
+
+# Dependencies and build output
+node_modules/
+dist/
+build/
+coverage/
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
+
+# Logs and temporary files
+*.log
+tmp/
+temp/
+
+# Local-only generated probes and caches
+csgo/**/.cache/
+csgo/**/cache/
+
+# Keep credentials and local deployment metadata out of Git
+*.pem
+*.key
+secrets.json
